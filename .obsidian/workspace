@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "aa0a23ae512b780b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c537199164d2754d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Orm Mines/Items/Treasure table.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0ba1e20f13d7abca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Orm Mines/Characters/Glox.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78ac1988ca2266a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5cea8d97ee41be3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d06c2909443601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "be39d6c11554f831",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3569c79d199c45ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "93c46ac44a98c0a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1f8ef94b5c541a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orm Mines/Characters/Glox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ba1e20f13d7abca",
+  "lastOpenFiles": [
+    "Orm Mines/Characters/Glox.md",
+    "Orm Mines/Characters/Space Pirates.md",
+    "Orm Mines/Items/Treasure table.md",
+    "Orm Mines/Items/Universal translator.md",
+    "Plik.md",
+    "Orm Mines/Locations/Vault.md",
+    "Orm Mines/Locations/Undertaps.md",
+    "Orm Mines/Locations/Turnstile.md",
+    "Orm Mines/Locations/Tiny tunnel.md",
+    "Orm Mines/Locations/Shaft.md"
+  ]
+}
