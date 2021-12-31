@@ -10,6 +10,6 @@ AC 10
 HD 10
 +10 to attack
 
-Absorb: 1d6 damage, reflex save or get absorbed inside of the monster. Opposed STR (it has +8) to get out. Run out of breath in 5 rounds.
+Absorb: 1d6 damage, reflex save DC 10 or get absorbed inside of the monster. Opposed STR (it has +8) to get out. Run out of breath in 5 rounds.
 
 Electricity stuns it.

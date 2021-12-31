@@ -1,6 +1,6 @@
 # Orm Outpost
 
-It sits just outside of [[Orm Mines]].
+It sits just outside of [[Orm Mines (overview)]].
 
 It has:
 
