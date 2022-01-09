@@ -13,7 +13,7 @@ HD 3
 +3 to hit
 
 Rad beam: 1d4 damage, 1d2 [[Rad]]s
-Acid spray: 1d6 damage, 1d3 damage per round unless washed off.
+Acid spray: Reflex save 12 or higher. 1d6 damage, 1d3 damage per round unless washed off.
 
 Fly at 12'/round rate.
 

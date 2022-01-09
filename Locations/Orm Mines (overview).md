@@ -4,5 +4,5 @@ At every location, if there isn't already a character there, there is a 1d4 chan
 
 ## Maps
 
-![[b1-b2.svg]]
-![[b3.svg]]
+![B1 and B2 maps](/media/b1-b2.svg)
+![b3 map](/media/b3.svg)

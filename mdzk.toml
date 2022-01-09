@@ -1,0 +1,7 @@
+[mdzk]
+authors = ["Jim Kang"]
+ignore = []
+language = "en"
+multilingual = false
+src = "."
+title = "Orm Mines"

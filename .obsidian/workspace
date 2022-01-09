@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba1e20f13d7abca",
+        "id": "4db6fd26ee47b0a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Orm Mines/Locations/Orm Mines (overview).md",
+            "file": "Characters/Bubble Monster.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orm Mines/Locations/Orm Mines (overview).md",
+                "file": "Characters/Bubble Monster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ba1e20f13d7abca",
+  "active": "4db6fd26ee47b0a2",
   "lastOpenFiles": [
-    "Orm Mines/Locations/Orm Mines (overview).md",
-    "Orm Mines/Locations/Maps.md",
-    "Orm Mines/Locations/Gold Box.md",
-    "Orm Mines/Items/Universal translator.md",
-    "Orm Mines/Characters/Glox.md",
-    "Orm Mines/Items/Repulsor pack.md",
+    "Characters/Bubble Monster.md",
+    "Characters/Bip.md",
+    "index.md",
+    "Locations/Orm Mines (overview).md",
+    "Characters/Mottekian.md",
+    "Rad.md",
+    "Items/Repulsor pack.md",
+    "Mottekian.md",
     "Orm Mines/Items/Treasure table.md",
-    "Orm Mines/Characters/Bubble Monster.md",
-    "Orm Mines/Locations/Bubble Monster room.md",
-    "Orm Mines/Locations/Prison Coil.md"
+    "html/Orm's Mines-annotations.pdf"
   ]
 }
