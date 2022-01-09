@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Bubble Monster.md",
+            "file": "Concepts/Wire.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bubble Monster.md",
+                "file": "Concepts/Wire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "4db6fd26ee47b0a2",
   "lastOpenFiles": [
-    "Characters/Bubble Monster.md",
-    "Characters/Bip.md",
-    "index.md",
-    "Locations/Orm Mines (overview).md",
-    "Characters/Mottekian.md",
-    "Rad.md",
-    "Items/Repulsor pack.md",
-    "Mottekian.md",
-    "Orm Mines/Items/Treasure table.md",
-    "html/Orm's Mines-annotations.pdf"
+    "Concepts/Wire.md",
+    "Concepts/Mottekian.md",
+    "media/oomoo.jpeg",
+    "media/51783964375_3987213185_k.jpg",
+    "media/51783963990_96714478aa_c.jpg",
+    "media/51783963965_98751fdd8f_k.jpg",
+    "media/51783722164_b998bd9718_c.jpg",
+    "media/51783339323_e0b119d803_c.jpg",
+    "media/51783089306_a33ade4f69_k.jpg",
+    "media/51782273487_849ffb95fe_k.jpg"
   ]
 }

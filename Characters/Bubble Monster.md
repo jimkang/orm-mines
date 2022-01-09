@@ -15,4 +15,4 @@ Absorb: 1d6 damage, reflex save DC 10 or get absorbed inside of the monster. Opp
 
 Electricity stuns it for 1d4 rounds.
 
-It will fill up most of the room it's in, but it's actually fairly slow-moving. PCs can shimmy past it along the edges of the room by making a DEX check DC 12. Failure means they stop moving through the room for the round and may endure an attack.
+It will fill up most of the room it's in, but it's actually fairly slow-moving. PCs can shimmy past it along the edges of the room by making a DEX check DC 12. Failure means they stop moving through the room for the round, and if the Bubble Monster hasn't taken an action in the round, they may attack.
