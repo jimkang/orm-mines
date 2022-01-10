@@ -4,7 +4,7 @@ Mottekians are the surface residents of Mottek.
 
 They look like this.
 
-![[oomoo.jpeg]]
+![Oomoo, a Mottekian](media/oomoo.jpeg)
 
 They all have a [[Wire]] at the tops of their heads that they can use to receive and send [[Power]]. Receiving power heals them, and they can provide 1 Power per round, up to 5 Power.
 
