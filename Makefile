@@ -9,7 +9,7 @@ pushall: sync
 	git push origin main
 
 sync:
-	rsync -a $(HOMEDIR)/html $(USER)@$(SERVER):$(APPDIR) --exclude node_modules/ \
+	rsync -a $(HOMEDIR)/html/ $(USER)@$(SERVER):$(APPDIR) --exclude node_modules/ \
 		--omit-dir-times --no-perms
 
 set-up-server-dir:
