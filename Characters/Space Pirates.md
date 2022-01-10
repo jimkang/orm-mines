@@ -13,16 +13,19 @@ Space Pirate table:
 
 Like [Pom Pom Monster](https://jimkang.com/weblog/articles/dnd-with-a-kid/pom-pom-dungeon/#pom-pom-monster) without Pom Poms.
 
+The Space Cyclopses and Ninja are rivals for informal leadership of the Space Pirates.
 
-[[Treasure table]] A x 2d4+2
+[[Treasure table]] x 2d4+2
 3d6 [[Wire]].
+Red [[cardkey]].
 
 ## Ninja
 
-https://jimkang.com/weblog/articles/dnd-with-a-kid/pom-pom-dungeon/#ninja
+[This guy again.](https://jimkang.com/weblog/articles/dnd-with-a-kid/pom-pom-dungeon/#ninja)
 
-Now he has a [[Repulsor pack]] and 5 [[Stones]] and a [[Hand missile]] as well as 1d3 things from [[Treasure table]] A.
+Now he has a [[Repulsor pack]] and 5 [[Stones]] and a [[Hand missile]] as well as 1d3 things from [[Treasure table]].
 2d6 [[Wire]].
+Red [[cardkey]]
 
 ## Thri-Kreen
 
@@ -37,6 +40,8 @@ hp 23, 26, 29
 
 ## Wirons
 
+![One possible interpretation of a wiron](media/wiron.jpg)
+
 Attack: +5
 HD: 4
 AC: 17
@@ -49,3 +54,5 @@ hp 20, 12, 16, 19, 13
 
 [[Treasure table]] A x 1d4
 2d6 [[Wire]].
+
+The Wirons are alien to Mottek. They hail from an icy planet and communicate only in writing to non-Wirons. They look sort of like metal curtain hooks. They conduct electricity and are stunned by it.

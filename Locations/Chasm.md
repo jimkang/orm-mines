@@ -8,7 +8,7 @@ Several [[Space Pirates]] hang out on it (and under it) and demand 10 wire to cr
 
 ## Web
 
-50 feet below, there's a web that bridges the Chasm for level B2.
+50 feet below, there's a web that bridges the Chasm for level B2. For every round of movement through it a DC 10 STR check must be made to avoid getting stuck.
 
 It's guarded by a [Phase Spider](https://www.dndbeyond.com/monsters/phase-spider)
 

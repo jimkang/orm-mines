@@ -1,14 +1,13 @@
 # Orm Outpost
 
-It sits just outside of [[Orm Mines (overview)]].
+It sits just outside of the mines ([[Dungeon map]]).
 
 It has:
 
 - A landing field
-- 3 Sleeping Pods
+- 3 Sleeping Pods (heal 1d12 hp per sleep)
 - A bubblemaker (out of [[Bubbubbub]] but when it has it, can make [[Mottekian spossip]]s)
 - A shop
-	- [[Rad]] suits, absorbs a total of 50 rad - 3 [[Wire]]
 	- A green [[cardkey]] - 7 wire
 	- [[Repulsor pack]] - 15 wire
 	- Water bottle - 1 wire

@@ -1,3 +1,3 @@
 # Medkit
 
-Drains 8 rad, heals 1d8
+Heals 1d8 hp.
