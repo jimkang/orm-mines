@@ -1,6 +1,6 @@
 # Plik
 
-![Plik](media/plik.jpeg)
+![Plik](../media/plik.jpeg)
 
 Pliks are flying slime polyps. They sound like they're saying plikplikplik when they talk.
 

@@ -17,4 +17,4 @@ It's run by [[Spop]].
 
 Sleeping pods:
 
-![Sleeping pod](media/51783339323_e0b119d803_c.jpg)
+![Sleeping pod](../media/51783339323_e0b119d803_c.jpg)

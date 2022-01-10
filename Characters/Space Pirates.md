@@ -40,7 +40,7 @@ hp 23, 26, 29
 
 ## Wirons
 
-![One possible interpretation of a wiron](media/wiron.jpg)
+![One possible interpretation of a wiron](../media/wiron.jpg)
 
 Attack: +5
 HD: 4

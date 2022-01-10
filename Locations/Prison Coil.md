@@ -1,6 +1,6 @@
 # Prison Coil
 
-![Prison Coil](media/51783963990_96714478aa_c.jpg)
+![Prison Coil](../media/51783963990_96714478aa_c.jpg)
 
 This is a room that contains just this prison coil.
 

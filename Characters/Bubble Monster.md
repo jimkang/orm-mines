@@ -1,6 +1,6 @@
 # Bubble Monster
 
-![Bubble monster](media/51783089306_a33ade4f69_k.jpg)
+![Bubble monster](../media/51783089306_a33ade4f69_k.jpg)
 
 This is living [[Bubbubbub]].
 
